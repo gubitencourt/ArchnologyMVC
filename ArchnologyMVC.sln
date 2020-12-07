@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchnologyMVC", "ArchnologyMVC\ArchnologyMVC.csproj", "{55E679E2-970D-4453-8E04-FED502AF5647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E679E2-970D-4453-8E04-FED502AF5647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E679E2-970D-4453-8E04-FED502AF5647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E679E2-970D-4453-8E04-FED502AF5647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E679E2-970D-4453-8E04-FED502AF5647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558F2F8F-0DD3-422C-A249-335772863A78}
+	EndGlobalSection
+EndGlobal
